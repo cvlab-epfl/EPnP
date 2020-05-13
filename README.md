@@ -18,6 +18,6 @@ Vincent Lepetit; Francesc Moreno-Noguer; Pascal Fua
 
 **Accurate non-iterative O(n) solution to the PnP problem**  
 Francesc Moreno-Noguer; Vincent Lepetit; Pascal Fua  
-*ICCV 2017*  
+*ICCV 2007*  
 [[abstract]](https://infoscience.epfl.ch/record/179767?ln=en) - [[PDF]](https://infoscience.epfl.ch/record/179767/files/top.pdf) - [[bibtex]](https://infoscience.epfl.ch/record/179767/export/btex)
 
